@@ -1,0 +1,27 @@
+h1{
+    color:red;
+}
+
+h2{
+    color:green;
+
+}
+
+#main-content > h1 {
+    color: blue ;
+
+}
+
+.sub-content > p{
+    color: red;
+
+}
+
+p{
+    color: gray;
+}
+
+.sub-content p{
+    color: black;
+    background-color: gray;
+}
